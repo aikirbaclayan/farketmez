@@ -1,0 +1,21 @@
+{
+  "name": "farketmez",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sosyal Karar Verme Uygulaması - Kararsızlığa Son!",
+  "author": "Elphisia",
+  "license": "MIT",
+  "scripts": {
+    "mobile": "cd apps/mobile && npm",
+    "web": "cd apps/web && npm",
+    "dev:mobile": "cd apps/mobile && npm start",
+    "dev:web": "cd apps/web && npm run dev",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
