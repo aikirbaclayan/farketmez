@@ -17,6 +17,10 @@ Venue Picker helps people decide where to go without long group chats and indeci
 
 The project is organized as a monorepo with an Expo mobile client, backend services, shared packages, and local development infrastructure.
 
+## Project Status
+
+Mobile app prototype. The repository is kept public as a portfolio project for venue discovery, group decision flows, and mobile-first product architecture.
+
 ## Features
 
 - **Group venue decisions** - Create a session, collect preferences, and narrow down options
